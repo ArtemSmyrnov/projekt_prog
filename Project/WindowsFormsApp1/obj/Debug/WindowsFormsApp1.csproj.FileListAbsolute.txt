@@ -1,0 +1,36 @@
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._2kartka.resources
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sasha\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Logowanie.resources
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._2kartka.resources
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Logowanie.resources
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Legion\Desktop\PS4\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1._2kartka.resources
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Logowanie.resources
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Artem Smirnov Dropbox\Артем Смирнов\Мой ПК (DESKTOP-JJA64DE)\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
